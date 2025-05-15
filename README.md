@@ -9,7 +9,7 @@ Julia implementation of $\beta_4$-UCS from our IEEE Transactions on Evolutionary
 ## What is $\beta_4$-UCS?
 
 
-<img src="fig/tbr_mf.png" width="600">
+<img src="fig/tbr_mf.png" width="300">
 
 $\beta_4$-UCS is an evolutionary rule-based machine learning system (a.k.a. [Learning Classifier Systems](https://en.wikipedia.org/wiki/Learning_classifier_system) <sup><a id="ref1"></a>[[1]](#1)</sup>) that enables each rule to flexibly adapt between crisp intervals and fuzzy boundaries using a four-parameter beta distribution, as shown above. This approach allows the system to automatically select the most appropriate rule representation for each region of the input space, evolving simple, interpretable crisp rules where possible and retaining fuzzy rules only where necessary for complex or noisy boundaries. $\beta_4$-UCS employs evolutionary operators and a generalization pressure mechanism – including a crispification operator inspired by Ockham’s Razor – to promote model simplicity and interpretability without sacrificing predictive performance.
 
