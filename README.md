@@ -320,7 +320,7 @@ The copyright of $\beta_4$-UCS belongs to the authors in the [Evolutionary Intel
 [2] Ester Bernadó-Mansilla and Josep M. Garrell-Guiu. "**Accuracy-based learning classifier systems: models, analysis and applications to classification tasks**." Evolutionary Computation 11.3 (2003): 209-238. https://doi.org/10.1162/106365603322365289 [[↑]](#ref2)  
 
 <a id="3"></a>
-[2] Albert Orriols-Puig, Jorge Casillas, and Ester Bernadó-Mansilla. "**Fuzzy-UCS: a Michigan-style learning fuzzy-classifier system for supervised learning**." IEEE Transactions on Evolutionary Computation 13.2 (2008): 260-283. https://doi.org/10.1109/TEVC.2008.925144 [[↑]](#ref3)   
+[3] Albert Orriols-Puig, Jorge Casillas, and Ester Bernadó-Mansilla. "**Fuzzy-UCS: a Michigan-style learning fuzzy-classifier system for supervised learning**." IEEE Transactions on Evolutionary Computation 13.2 (2008): 260-283. https://doi.org/10.1109/TEVC.2008.925144 [[↑]](#ref3)   
 
 <a id="4"></a>
 [4] Andras Bardossy and Lucien Duckstein. **Fuzzy rule-based modeling with applications to geophysical, biological, and engineering systems**. CRC press, 1995. https://doi.org/10.1201/9780138755133 [[↑]](#ref4)  
