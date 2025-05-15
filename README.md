@@ -100,7 +100,7 @@ $\beta_4$-UCS tracks the following features every epoch:
 These values are saved as `summary.csv`. An example of log output during the experiment is shown below.
 
 ```
-          Epoch    Iteration     TrainAcc      TestAcc     TrainPre      TestPre     TrainRec      TestRec      TrainF1       TestF1      PopSize    %Covering #Subsumption
+       Epoch    Iteration     TrainAcc      TestAcc     TrainPre      TestPre     TrainRec      TestRec      TrainF1       TestF1      PopSize    %Covering #Subsumption
 ============ ============ ============ ============ ============ ============ ============ ============ ============ ============ ============ ============ ============
            1         5400       47.315       46.167       47.184       47.350       39.164       38.287       41.977       41.311          473        0.013            0
            2        10800       49.296       48.000       49.133       49.479       25.104       24.243       33.118       32.481          960        0.009            4 
