@@ -1,4 +1,4 @@
-# $\beta_4$-UCS: a Learning Classifier System with Adaptive Rule Representation <!-- omit in toc -->
+# $\beta_4$-UCS: A Learning Classifier System with Adaptive Rule Representation <!-- omit in toc -->
 
 
 Julia implementation of $\beta_4$-UCS from our IEEE Transactions on Evolutionary Computation (TEVC) article:
