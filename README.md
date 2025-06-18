@@ -3,7 +3,7 @@
 
 Julia implementation of $\beta_4$-UCS from our IEEE Transactions on Evolutionary Computation (TEVC) article:
 
->Hiroki Shiraishi, Yohei Hayamizu, Tomonori Hashiyama, Keiki Takadama, Hisao Ishibuchi, and Masaya Nakata. 2025. **Adapting Rule Representation With Four-Parameter Beta Distributions for Learning Classifier Systems**. IEEE Transactions on Evolutionary Computation, Early Access (March 2025). https://doi.org/10.1109/TEVC.2025.3550915
+>Hiroki Shiraishi, Yohei Hayamizu, Tomonori Hashiyama, Keiki Takadama, Hisao Ishibuchi, and Masaya Nakata. 2025. **Adapting Rule Representation With Four-Parameter Beta Distributions for Learning Classifier Systems**. IEEE Transactions on Evolutionary Computation, Early Access (March 2025). [DOI: 10.1109/TEVC.2025.3550915](https://doi.org/10.1109/TEVC.2025.3550915), [arXiv](https://doi.org/10.48550/arXiv.2506.03602)
 
 
 ## What is $\beta_4$-UCS?
