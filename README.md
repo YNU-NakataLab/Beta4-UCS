@@ -6,7 +6,7 @@ Julia implementation of $\beta_4$-UCS from our IEEE Transactions on Evolutionary
 >Hiroki Shiraishi, Yohei Hayamizu, Tomonori Hashiyama, Keiki Takadama, Hisao Ishibuchi, and Masaya Nakata. 2025. **Adapting Rule Representation With Four-Parameter Beta Distributions for Learning Classifier Systems**. IEEE Transactions on Evolutionary Computation, Early Access (March 2025). [DOI: 10.1109/TEVC.2025.3550915](https://doi.org/10.1109/TEVC.2025.3550915), [arXiv](https://doi.org/10.48550/arXiv.2506.03602)
 
 An extended abstract of the article is published as our GECCO paper:
->Hiroki Shiraishi, Yohei Hayamizu, Tomonori Hashiyama, Keiki Takadama, Hisao Ishibuchi, and Masaya Nakata. 2025. **Evolutionary Co-Optimization of Rule Shape and Fuzziness in Rule-Based Machine Learning**. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '25 Companion). ACM. [DOI: 10.1145/3712255.3734248](https://doi.org/10.1145/3712255.3734248), [TechRxiv](https://doi.org/10.36227/techrxiv.174900805.59801248/v1)
+>Hiroki Shiraishi, Yohei Hayamizu, Tomonori Hashiyama, Keiki Takadama, Hisao Ishibuchi, and Masaya Nakata. 2025. **Evolutionary Co-Optimization of Rule Shape and Fuzziness in Rule-Based Machine Learning**. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '25 Companion). ACM, New York, NY, USA, 71–72. [DOI: 10.1145/3712255.3734248](https://doi.org/10.1145/3712255.3734248), [TechRxiv](https://doi.org/10.36227/techrxiv.174900805.59801248/v1)
 
 
 ## What is $\beta_4$-UCS?
