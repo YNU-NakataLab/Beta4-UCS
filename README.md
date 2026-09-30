@@ -296,10 +296,7 @@ julia ./beta4-ucs/main.jl --all=true
 
 This code will run experiments on the 25 datasets used in the article and output results.
 
-## Copyright
-
-The copyright of $\beta_4$-UCS belongs to the authors in the [Evolutionary Intelligence Research Group](http://www.nkt.ynu.ac.jp/en/) (Nakata Lab) at Yokohama National University, Japan. You are free to use this code for research purposes. In such cases, we kindly request that you cite the following article:
-
+## Citation
 >Hiroki Shiraishi, Yohei Hayamizu, Tomonori Hashiyama, Keiki Takadama, Hisao Ishibuchi, and Masaya Nakata. 2026. **Adapting Rule Representation With Four-Parameter Beta Distributions for Learning Classifier Systems**. IEEE Transactions on Evolutionary Computation, vol. 30, no. 1, pp. 363-377, Feb. 2026. https://doi.org/10.1109/TEVC.2025.3550915
 
 ```bibtex
@@ -314,6 +311,8 @@ The copyright of $\beta_4$-UCS belongs to the authors in the [Evolutionary Intel
   doi={10.1109/TEVC.2025.3550915}}
 ```
 
+## Contact
+If you have any questions, please contact hiroki.shiraishi.ynu@gmail.com.
 
 ## References
 
